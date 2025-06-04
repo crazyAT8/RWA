@@ -1,0 +1,17 @@
+{
+  "name": "browsercollections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginAndSaveState.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.52.0",
+    "xlsx": "^0.18.5"
+  }
+}
